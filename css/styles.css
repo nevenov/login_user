@@ -1,0 +1,15 @@
+.home_page_photo {
+
+	width: 200px;
+	height: 140px !important;
+}
+
+
+/************* Home Page Pagination ********/
+.pager > .active > a, .pager > .active > a:focus, .pager > .active > a:hover {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
